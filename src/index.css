@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    background-color: #0c373d9a;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Montserrat' sans-serif;
+}
